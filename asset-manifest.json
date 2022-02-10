@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Section-01-Solo-Project/static/css/main.99fc431c.css",
+    "main.css": "/Section-01-Solo-Project/static/css/main.8f630995.css",
     "main.js": "/Section-01-Solo-Project/static/js/main.868e47ca.js",
     "static/js/787.43cb0d31.chunk.js": "/Section-01-Solo-Project/static/js/787.43cb0d31.chunk.js",
     "static/media/Rectangle 90.png": "/Section-01-Solo-Project/static/media/Rectangle 90.a47159f8e75eec5bbe14.png",
@@ -11,12 +11,12 @@
     "static/media/linkedin.svg": "/Section-01-Solo-Project/static/media/linkedin.428e955672b18cdce36ebda64db7eedc.svg",
     "static/media/Facebook.svg": "/Section-01-Solo-Project/static/media/Facebook.00c353d38f22d18d3ff0962f9ce66f43.svg",
     "static/media/mail.svg": "/Section-01-Solo-Project/static/media/mail.341d1e767b26e2540702fb63676d4501.svg",
-    "main.99fc431c.css.map": "/Section-01-Solo-Project/static/css/main.99fc431c.css.map",
+    "main.8f630995.css.map": "/Section-01-Solo-Project/static/css/main.8f630995.css.map",
     "main.868e47ca.js.map": "/Section-01-Solo-Project/static/js/main.868e47ca.js.map",
     "787.43cb0d31.chunk.js.map": "/Section-01-Solo-Project/static/js/787.43cb0d31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99fc431c.css",
+    "static/css/main.8f630995.css",
     "static/js/main.868e47ca.js"
   ]
 }
