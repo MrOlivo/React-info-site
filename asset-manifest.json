@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/Section-01-Solo-Project/static/css/main.68601e34.css",
-    "main.js": "/Section-01-Solo-Project/static/js/main.22b53674.js",
+    "main.css": "/Section-01-Solo-Project/static/css/main.c71b9edb.css",
+    "main.js": "/Section-01-Solo-Project/static/js/main.66bbd1f3.js",
     "static/js/787.43cb0d31.chunk.js": "/Section-01-Solo-Project/static/js/787.43cb0d31.chunk.js",
-    "static/media/Rectangle 90.png": "/Section-01-Solo-Project/static/media/Rectangle 90.a47159f8e75eec5bbe14.png",
     "static/media/Instagram.svg": "/Section-01-Solo-Project/static/media/Instagram.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
     "static/media/GitHub.svg": "/Section-01-Solo-Project/static/media/GitHub.23d6dfa78140e8017f08351385915806.svg",
     "static/media/Twitter.svg": "/Section-01-Solo-Project/static/media/Twitter.3f40423293e1813898c7e26f729a0705.svg",
@@ -11,12 +10,12 @@
     "static/media/linkedin.svg": "/Section-01-Solo-Project/static/media/linkedin.428e955672b18cdce36ebda64db7eedc.svg",
     "static/media/Facebook.svg": "/Section-01-Solo-Project/static/media/Facebook.00c353d38f22d18d3ff0962f9ce66f43.svg",
     "static/media/mail.svg": "/Section-01-Solo-Project/static/media/mail.341d1e767b26e2540702fb63676d4501.svg",
-    "main.68601e34.css.map": "/Section-01-Solo-Project/static/css/main.68601e34.css.map",
-    "main.22b53674.js.map": "/Section-01-Solo-Project/static/js/main.22b53674.js.map",
+    "main.c71b9edb.css.map": "/Section-01-Solo-Project/static/css/main.c71b9edb.css.map",
+    "main.66bbd1f3.js.map": "/Section-01-Solo-Project/static/js/main.66bbd1f3.js.map",
     "787.43cb0d31.chunk.js.map": "/Section-01-Solo-Project/static/js/787.43cb0d31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68601e34.css",
-    "static/js/main.22b53674.js"
+    "static/css/main.c71b9edb.css",
+    "static/js/main.66bbd1f3.js"
   ]
 }
